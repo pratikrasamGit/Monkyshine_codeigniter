@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        opacity: 0.1;
+      }
+
+      .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #f15f31;
+      }
+
+      .cls-5 {
+        stroke: #3a3099;
+        stroke-dasharray: 10 10;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="_00-The-Endangered_Hero" data-name="00-The-Endangered_Hero" class="cls-1" d="M0,0H1920V1080H0Z" transform="translate(7740 2269)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_2" data-name="Mask Group 2" class="cls-2" transform="translate(-7740 -2269)">
+    <path id="_00-The-Endangered_Hero-2" data-name="00-The-Endangered_Hero" class="cls-1" d="M0,0H1920V1080H0Z" transform="translate(7740 2269)"/>
+    <g id="Group_2726" data-name="Group 2726" class="cls-3" transform="translate(9639.512 3256.975) rotate(-163)">
+      <path id="Path_4220" data-name="Path 4220" class="cls-4" d="M0,98.979S394.86,203.414,369.78,305.888s-139.341,63.105-101.709-9.263,447.229-149.2,879.854-50.315,597.206-42.342,648.454-93.59,58.185-172.443,0-149.969-41.878,152.615,98.673,99.7,188.5,50.267,188.5,50.267" transform="translate(0 18.221)"/>
+      <path id="Path_4241" data-name="Path 4241" class="cls-4" d="M0,98.979S394.86,203.414,369.78,305.888s-139.341,63.105-101.709-9.263,447.229-149.2,879.854-50.315,597.206-42.342,648.454-93.59,58.185-172.443,0-149.969-41.878,152.615,98.673,99.7,188.5,50.267,188.5,50.267" transform="translate(0 18.221)"/>
+      <path id="Path_4242" data-name="Path 4242" class="cls-4" d="M0,98.979S394.86,203.414,369.78,305.888s-139.341,63.105-101.709-9.263,447.229-149.2,879.854-50.315,597.206-42.342,648.454-93.59,58.185-172.443,0-149.969-41.878,152.615,98.673,99.7,188.5,50.267,188.5,50.267" transform="translate(0 18.221)"/>
+      <path id="Path_4243" data-name="Path 4243" class="cls-4" d="M0,98.979S394.86,203.414,369.78,305.888s-139.341,63.105-101.709-9.263,447.229-149.2,879.854-50.315,597.206-42.342,648.454-93.59,58.185-172.443,0-149.969-41.878,152.615,98.673,99.7,188.5,50.267,188.5,50.267" transform="translate(0 18.221)"/>
+      <path id="Path_4221" data-name="Path 4221" class="cls-5" d="M0,98.979S394.86,203.414,369.78,305.888s-139.341,63.105-101.709-9.263,447.229-149.2,879.854-50.315,597.206-42.342,648.454-93.59,58.185-172.443,0-149.969-41.878,152.615,98.673,99.7,188.5,50.267,188.5,50.267" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,55 @@
+@media screen and (min-width: 1400px) {
+  .navbar-nav .nav-link,
+  .navbar-nav .btn{
+    font-size: 13px;
+  }
+  .banner_content h2{
+    font-size: 75px;
+  }
+  .banner_content p{
+    font-size: 18px;
+  }
+  .banner_content h6{
+    font-size: 18px;
+  }
+  .banner_content h6 b{
+    font-size: 20px;
+  }
+  .heading h4{
+    font-size: 26px;
+  }
+  .heading p{
+    font-size: 18px;
+  }
+  .steps h5{
+    font-size: 24px;
+  }
+  .steps p{
+    font-size: 15px;
+  }
+  /* ==========================================================================
+  /* app work process section style End
+  ========================================================================== */
+
+
+  .liebeLiveFeatures_shape h5{
+    font-size: 18px;
+  }
+  .liebeLiveFeatures_shape p{
+    font-size: 15px;
+  }
+}
+
+
+
+@media (min-width: 200px) and (max-width: 767px) {
+ 
+}
+
+
+
+
+
+@media (max-width: 600px) {
+
+}

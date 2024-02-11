@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #2196f3;
+      }
+
+      .cls-3 {
+        fill: #ffc107;
+      }
+
+      .cls-4 {
+        fill: #4caf50;
+      }
+
+      .cls-5 {
+        fill: #f44336;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="google_play" transform="translate(-6046 293)">
+    <g id="Rectangle_907" data-name="Rectangle 907" class="cls-1" transform="translate(6046 -293)">
+      <rect class="cls-6" width="100" height="100"/>
+      <rect class="cls-7" x="0.5" y="0.5" width="99" height="99"/>
+    </g>
+    <g id="google-play" transform="translate(6059 -282)">
+      <path id="Path_4211" data-name="Path 4211" class="cls-2" d="M56.977,53.079,18.851,91.205a9.039,9.039,0,0,1-2.808-6.65v-59.8a9.161,9.161,0,0,1,2.906-6.749Z" transform="translate(-16.043 -15.234)"/>
+      <path id="Path_4212" data-name="Path 4212" class="cls-3" d="M314.917,169.178a9.348,9.348,0,0,1-4.975,8.226l-10.837,6.01L285.657,171l-3.694-3.4L296.2,153.366l13.743,7.586A9.348,9.348,0,0,1,314.917,169.178Z" transform="translate(-241.029 -129.758)"/>
+      <path id="Path_4213" data-name="Path 4213" class="cls-4" d="M72.951,37.844,34.923,2.771A9.807,9.807,0,0,1,36.7,1.441a9.917,9.917,0,0,1,10.049-.148L87.187,23.608Z" transform="translate(-32.017 0)"/>
+      <path id="Path_4214" data-name="Path 4214" class="cls-5" d="M89.552,261.658,46.2,285.549a9.811,9.811,0,0,1-4.926,1.281,9.6,9.6,0,0,1-5.123-1.429,8.96,8.96,0,0,1-1.872-1.428L72.41,245.846l3.694,3.4Z" transform="translate(-31.475 -208.002)"/>
+    </g>
+  </g>
+</svg>

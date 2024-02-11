@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="236" height="81" viewBox="0 0 236 81">
+  <defs>
+    <filter id="Ellipse_541" x="0" y="5" width="76" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#f15f31" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_4216" x="24.114" y="22.444" width="31.584" height="33.111" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Play" transform="translate(-531 -600)">
+    <circle id="Ellipse_542" data-name="Ellipse 542" cx="37.5" cy="37.5" r="37.5" transform="translate(531 600)" fill="#f15f31" opacity="0.1"/>
+    <g transform="matrix(1, 0, 0, 1, 531, 600)" filter="url(#Ellipse_541)">
+      <circle id="Ellipse_541-2" data-name="Ellipse 541" cx="23" cy="23" r="23" transform="translate(15 15)" fill="#f15f31"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 531, 600)" filter="url(#Path_4216)">
+      <path id="Path_4216-2" data-name="Path 4216" d="M7.41.97A1.882,1.882,0,0,1,10.7.97l7.159,12.747a1.918,1.918,0,0,1-1.646,2.867H1.9A1.918,1.918,0,0,1,.251,13.717Z" transform="translate(48.2 28.94) rotate(90)" fill="#fff"/>
+    </g>
+    <text id="Watch_About_This_App" data-name="Watch About This App" transform="translate(622 638)" fill="#220b2c" font-size="14" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="0" y="0">Watch About This App</tspan></text>
+    <line id="Line_1" data-name="Line 1" x2="96" transform="translate(670.5 651.5)" fill="none" stroke="#f15f31" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>

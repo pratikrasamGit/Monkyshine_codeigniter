@@ -1,0 +1,182 @@
+.my_animated {
+    animation-duration: 2.5s;
+    animation-fill-mode: both;
+    animation-iteration-count: infinite;
+  }
+
+.shape1,.shape2,.shape3,.shape4,.shape5,.shape6,.shape7,.shape8,.shape9,.shape10,
+.shape11,.shape12,.shape13,.shape14,.shape15,.shape16,.shape17,.shape18,.shape19,
+.shape20,.shape21,.shape22,.shape23,.shape24,.shape25,.shape26,.shape27,.shape28
+{
+  position: absolute;
+}
+.shape1
+{
+    left: -50px;
+    top: 100px;
+}
+.shape2
+{
+    left: 40%;
+    top: 40%;
+}
+.shape3
+{
+    right: -50px;
+    bottom: -80px;
+    transform: scale(0.7);
+}
+ .shape4 
+{
+    right: 30%;
+    top: 0px;
+    transform: scale(0.8);
+}
+.shape5
+{
+    left: -70px;
+    bottom: -50px;
+    transform: scale(0.8);
+}
+.shape6
+{
+    left: 20%;
+    top: -30px;
+    }
+.shape7
+{
+    left: 5%;
+    top: 5%;
+}
+.shape8
+{
+    left: -5%;
+    bottom: -10%;
+    transform: scale(0.7);
+}
+.shape9
+{
+    right: 0;
+    top: 5%;
+    transform: scale(0.7);
+}
+.shape10
+{
+    right: 20%;
+    bottom: -10%;
+    transform: scale(0.7);
+}
+.shape11
+{
+    left: 10%;
+    top: -10%;
+    transform: scale(0.7);
+}
+.shape12
+{
+    right: 28%;
+    top: -2%;
+    transform: scale(0.7);
+}
+.shape13
+{
+    right: 5%;
+    top: -2%;
+    transform: scale(0.7);
+}
+
+.shape14
+{
+    left: 12%;
+    bottom: -12%;
+    transform: scale(0.5);
+}
+.shape15
+{
+    right: 7%;
+    bottom: -7%;
+    transform: scale(0.5);
+}
+.shape16
+{
+    left: 4%;
+    top: 4%;
+    transform: scale(0.5);
+}
+.shape17
+{
+    right: 20%;
+    top: -5%;
+    transform: scale(0.5);
+}
+.shape18
+{
+    right: 10%;
+    top: 15%;
+    transform: scale(0.5);
+}
+.shape19
+{
+    left: 13%;
+    bottom: 23%;
+    transform: scale(0.5);
+}
+.shape20
+{
+    left: 23%;
+    bottom: 0%;
+    transform: scale(0.5);
+}
+.shape21
+{
+    right: 5%;
+    bottom: -10%;
+    transform: scale(0.5);
+}
+.shape22
+{
+    left: 0%;
+    top: -7%;
+    transform: scale(0.5);
+    z-index: +9;
+}
+.shape23
+{
+    right: 15%;
+    top: 5%;
+    transform: scale(0.5);
+    z-index: +9;
+}
+.shape24
+{
+    left: 35%;
+    bottom: -34%;
+    transform: scale(0.5);
+    z-index: +9;
+}
+.shape25
+{
+    left: 25%;
+    top: 2%;
+    transform: scale(0.7);
+}
+.shape26
+{
+    
+    right: -2%;
+    top: -7%;
+    transform: scale(0.4);
+    
+}
+.shape27
+{
+    left: 0%;
+    bottom: -20%;
+    transform: scale(0.5);
+}
+.shape28
+{
+    right: 25%;
+    bottom: -22%;
+    transform: scale(0.4);
+}

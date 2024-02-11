@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.343" height="39.343" viewBox="0 0 39.343 39.343">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.832" y1="-0.156" x2="0.354" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e31414"/>
+      <stop offset="1" stop-color="#dd4f36"/>
+    </linearGradient>
+  </defs>
+  <g id="youtube_" data-name="youtube " transform="translate(-3841.657 -5602)">
+    <rect id="background" width="39.343" height="39.343" rx="10" transform="translate(3841.657 5602)" fill="#f15f31" opacity="0.1"/>
+    <path id="youtube_icon" data-name="youtube icon" d="M15.7,30.935a50.691,50.691,0,0,1-7.372-.372,3.241,3.241,0,0,1-1.691-.88,3.561,3.561,0,0,1-.8-1.545,10.106,10.106,0,0,1-.342-2.268,53.878,53.878,0,0,1,0-7.353c.153-1.358.227-2.97,1.242-3.911A3.329,3.329,0,0,1,8.4,13.766a91.791,91.791,0,0,1,9.455-.332,91.96,91.96,0,0,1,9.455.332,3.253,3.253,0,0,1,1.946,1.154A9.684,9.684,0,0,1,30.289,19.6c.039.675.039,4.507,0,5.182a11.843,11.843,0,0,1-.6,3.852,2.84,2.84,0,0,1-.685,1.1,3.28,3.28,0,0,1-1.741.89c-4.112.309-7.6.376-11.567.313Zm6.3-9c-2.288-1.223-4.478-2.356-6.717-3.53v7.02c2.356-1.281,4.84-2.454,6.727-3.5Z" transform="translate(3843.987 5599.563)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

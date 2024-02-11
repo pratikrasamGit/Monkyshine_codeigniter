@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="223" height="75" viewBox="0 0 223 75">
+  <g id="Download_App" data-name="Download App" transform="translate(-243 -600)">
+    <rect id="Rectangle_906" data-name="Rectangle 906" width="223" height="75" rx="15" transform="translate(243 600)" fill="#f15f31" opacity="0.1"/>
+    <text id="Download_App-2" data-name="Download App" transform="translate(332 631)" fill="#220b2c" font-size="16" font-family="NunitoSans-Bold, Nunito Sans" font-weight="700"><tspan x="0" y="0">Download App</tspan></text>
+    <text id="on_play_store" data-name="on play store" transform="translate(332 654)" fill="#f15f31" font-size="16" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="0" y="0">on play store</tspan></text>
+    <g id="Group_2317" data-name="Group 2317" transform="translate(-401 -678)">
+      <g id="Rectangle_907" data-name="Rectangle 907" transform="translate(660 1286)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+        <rect width="59" height="59" stroke="none"/>
+        <rect x="0.5" y="0.5" width="58" height="58" fill="none"/>
+      </g>
+      <g id="google-play" transform="translate(651.957 1292)">
+        <path id="Path_4211" data-name="Path 4211" d="M39.955,38.494,17.683,60.766a5.28,5.28,0,0,1-1.64-3.885V21.948a5.352,5.352,0,0,1,1.7-3.942Z" transform="translate(0 -16.387)" fill="#2196f3"/>
+        <path id="Path_4212" data-name="Path 4212" d="M301.214,162.6a5.461,5.461,0,0,1-2.906,4.805l-6.331,3.511-7.856-7.251-2.158-1.985,8.316-8.316,8.028,4.431A5.461,5.461,0,0,1,301.214,162.6Z" transform="translate(-242.008 -139.575)" fill="#ffc107"/>
+        <path id="Path_4213" data-name="Path 4213" d="M57.138,22.107,34.923,1.619A5.729,5.729,0,0,1,35.959.842a5.793,5.793,0,0,1,5.87-.086L65.454,13.791Z" transform="translate(-17.182 0)" fill="#4caf50"/>
+        <path id="Path_4214" data-name="Path 4214" d="M66.569,255.083,41.247,269.039a5.731,5.731,0,0,1-2.878.748,5.606,5.606,0,0,1-2.993-.835,5.234,5.234,0,0,1-1.093-.834l22.272-22.272,2.158,1.985Z" transform="translate(-16.6 -223.739)" fill="#f44336"/>
+      </g>
+    </g>
+  </g>
+</svg>

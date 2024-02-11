@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="223" height="75" viewBox="0 0 223 75">
+  <g id="Download_button" data-name="Download button" transform="translate(-243 -599.834)">
+    <text id="Download_App" data-name="Download App" transform="translate(278 644.834)" fill="#f15f31" font-size="22" font-family="NunitoSans-Bold, Nunito Sans" font-weight="700"><tspan x="0" y="0">Download App</tspan></text>
+    <g id="Rectangle_906" data-name="Rectangle 906" transform="translate(243 599.834)" fill="none" stroke="#f15f31" stroke-width="1">
+      <rect width="223" height="75" rx="15" stroke="none"/>
+      <rect x="0.5" y="0.5" width="222" height="74" rx="14.5" fill="none"/>
+    </g>
+  </g>
+</svg>

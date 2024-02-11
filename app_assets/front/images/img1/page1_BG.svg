@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #3a3099;
+        stroke-dasharray: 10 10;
+      }
+
+      .cls-4 {
+        fill: #3a3099;
+        opacity: 0.95;
+      }
+
+      .cls-5 {
+        fill: #f15f31;
+        opacity: 0.05;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-8 {
+        filter: url(#Rectangle_1065);
+      }
+
+      .cls-9 {
+        filter: url(#Rectangle_1064);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.992" y1="0.013" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fdeee9"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="_00-The-Endangered_Hero" data-name="00-The-Endangered_Hero" class="cls-1" d="M0,0H1920V1080H0Z" transform="translate(8442)"/>
+    </clipPath>
+    <filter id="Rectangle_1064" x="1170" y="-24" width="1117.479" height="1117.479" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1065" x="1208" y="-26" width="1117.479" height="1117.479" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="page1_BG" class="cls-2" transform="translate(-8442)">
+    <path id="_00-The-Endangered_Hero-2" data-name="00-The-Endangered_Hero" class="cls-1" d="M0,0H1920V1080H0Z" transform="translate(8442)"/>
+    <g class="cls-9" transform="matrix(1, 0, 0, 1, 8442, 0)">
+      <g id="Rectangle_1064-2" data-name="Rectangle 1064" class="cls-3" transform="matrix(0.83, -0.56, 0.56, 0.83, 1179, 424.88)">
+        <rect class="cls-6" width="792" height="792" rx="50"/>
+        <rect class="cls-7" x="0.5" y="0.5" width="791" height="791" rx="49.5"/>
+      </g>
+    </g>
+    <g class="cls-8" transform="matrix(1, 0, 0, 1, 8442, 0)">
+      <rect id="Rectangle_1065-2" data-name="Rectangle 1065" class="cls-4" width="792" height="792" rx="50" transform="matrix(0.83, -0.56, 0.56, 0.83, 1217, 422.88)"/>
+    </g>
+    <path id="Path_4417" data-name="Path 4417" class="cls-5" d="M5.852,192.947V-51.321h44.7V156.22H164.54v36.727Zm188.485,0V23.519h43.31V192.947ZM191.911-55.132h47.814v42.617H191.911ZM430.982,116.029H315.6q2.079,23.561,14.206,34.994t34.648,11.434q28.065,0,51.279-18.017l12.473,29.8q-11.78,9.7-29.624,15.592a113.782,113.782,0,0,1-35.861,5.89q-41.578,0-65.658-23.561t-24.08-64.445q0-25.986,10.394-46.082A75.582,75.582,0,0,1,312.66,30.448q18.883-11.087,42.79-11.087,34.994,0,55.263,22.521t20.269,62.02ZM356.489,49.851q-17.324,0-27.892,11.087T315.6,92.815h78.3q-.693-21.135-10.394-32.049T356.489,49.851Zm207.195-30.49q22.175,0,39.152,10.741t26.506,30.49q9.528,19.749,9.528,46.082t-9.528,46.6q-9.528,20.269-26.679,31.356t-38.979,11.087q-18.363,0-32.742-7.969a54.243,54.243,0,0,1-22-22.175v27.372H466.323V-51.321h43.31v99.44A51.8,51.8,0,0,1,531.461,26.81Q545.667,19.361,563.684,19.361ZM552.25,162.111q20.442,0,31.876-14.552t11.434-40.885q0-25.986-11.261-39.845T552.25,52.97Q531.461,52.97,520.2,67T508.94,107.367q0,26.332,11.261,40.538T552.25,162.111ZM823.2,116.029H707.82q2.079,23.561,14.206,34.994t34.648,11.434q28.065,0,51.279-18.017l12.473,29.8q-11.78,9.7-29.624,15.592a113.781,113.781,0,0,1-35.861,5.89q-41.578,0-65.658-23.561T665.2,107.713q0-25.986,10.394-46.082a75.583,75.583,0,0,1,29.278-31.183q18.883-11.087,42.79-11.087,34.994,0,55.264,22.521T823.2,103.9ZM748.7,49.851q-17.324,0-27.892,11.087T707.82,92.815h78.3q-.693-21.135-10.394-32.049T748.7,49.851Zm207.541,143.1V-51.321h44.7V156.22h113.992v36.727Zm188.485,0V23.519h43.31V192.947ZM1142.3-55.132h47.814v42.617H1142.3Zm209.274,79H1394.2l-74.147,169.082h-37.766L1208.829,23.865h45.735L1302.378,143.4Zm209.274,92.164H1445.475q2.079,23.561,14.206,34.994t34.648,11.434q28.065,0,51.279-18.017l12.473,29.8q-11.78,9.7-29.624,15.592a113.783,113.783,0,0,1-35.861,5.89q-41.578,0-65.658-23.561t-24.08-64.445q0-25.986,10.394-46.082a75.582,75.582,0,0,1,29.278-31.183q18.883-11.087,42.79-11.087,34.994,0,55.263,22.521t20.269,62.02Zm-74.493-66.178q-17.324,0-27.892,11.087t-12.993,31.876h78.3q-.693-21.135-10.394-32.049T1486.359,49.851Z" transform="translate(8436.148 884.281)"/>
+  </g>
+</svg>
